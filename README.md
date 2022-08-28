@@ -15,6 +15,7 @@ Sw_toolkit是使用SOLIDWORKS API进行的二次开发工具，意在解决一�
 
 ## 功能
 
+<a href="https://www.bilibili.com/video/BV1yd4y1m7sm/?spm_id_from=333.788&vd_source=61426b94de87e3e2baee96fc2f5b14f2">视频介绍</a>
 
 <strong>输出属性：</strong>配合【选择文件】对多个零件的属性导出成Excel表。如果未选择文件则输出当前文件的属性
 
