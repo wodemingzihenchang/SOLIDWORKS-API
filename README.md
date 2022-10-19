@@ -7,9 +7,9 @@ Sw_toolkit是使用SOLIDWORKS API进行的二次开发工具，意在解决一�
 
 ## 使用
 
-1、下载程序：从Code按键下载ZIP压缩包，解压得到Sw_toolkit文件夹。
+1、下载程序：从Code按键下载ZIP压缩包，解压得到程序包文件夹。
 
-2、加载命令：打开SOLIDWORKS——》新建一个空白模板——》打开自定义功能——》找到“定义宏”命令——》拖放至空白工具栏——》选择Sw_toolkit文件夹RunMacro(progID).swp——》完成
+2、加载命令：打开SOLIDWORKS——》新建一个空白模板——》打开自定义功能——》找到“定义宏”命令——》拖放至空白工具栏——》选择程序包文件夹RunMacro(progID).swp——》完成
 
 3、测试效果：检查宏按钮能否打开Sw_toolkit工具。
 
