@@ -6,7 +6,7 @@
 
 1、选择标准：选择你修改好的文档属性文件“xxxx.sldstd”（该文件在【选项-文档属性-标准】选择保存到外部文件获得）
 
-<img src= "https://i0.hdslb.com/bfs/article/efd73e2c14395a3cd23f595d20125206ad750c20.png@587w_299h_progressive.webp"><br>
+<img src= "https://i0.hdslb.com/bfs/article/b9452b65a76b6c5ef22a5a8f721b06c1faa4d8bc.png@942w_197h_progressive.webp"><br>
 
 2、选择文件：选择需要更新的零部件（因为零件、装配体、工程图有着不一样的标准文件，建议是分开处理）
 
