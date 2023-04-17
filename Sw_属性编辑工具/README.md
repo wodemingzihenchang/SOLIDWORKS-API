@@ -1,5 +1,6 @@
 用于批量处理SW文件属性的工具程序。
-<img src="https://i0.hdslb.com/bfs/article/cbb945a56b49f8c1775cdb99adc9b7f73ac882b9.png@765w_368h_progressive.webp">
+
+<img src="https://i0.hdslb.com/bfs/article/cbb945a56b49f8c1775cdb99adc9b7f73ac882b9.png@765w_368h_progressive.webp"><br>
 
 ## 选择文件：
 选择需要处理的SW文件，包括后缀为“.sldprt，.sldasm，.slddrw”等文件格式。
