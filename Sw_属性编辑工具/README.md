@@ -1,11 +1,15 @@
 用于批量处理SW文件属性的工具程序，目前只支持SW 2019及以下版本的操作。
+<img src="https://i0.hdslb.com/bfs/article/cbb945a56b49f8c1775cdb99adc9b7f73ac882b9.png@765w_368h_progressive.webp">
 
 ## 选择文件：
 选择需要处理的SW文件，包括后缀为“.sldprt，.sldasm，.slddrw”等文件格式。
+<img src="https://i0.hdslb.com/bfs/article/cbb945a56b49f8c1775cdb99adc9b7f73ac882b9.png@765w_368h_progressive.webp"><br>
 
 ## 获得属性：
 获得属性可以通过左侧的复选框，选择需要处理的属性名。如果默认不做选择的话，则是输出全部的属性。
-
+<img src="https://i0.hdslb.com/bfs/article/636b82cd180f5077e076ed73ef4c93d2478a6a4a.png@942w_491h_progressive.webp"><br>
+<img src="https://i0.hdslb.com/bfs/article/eeed25acd1ac7ba1510bbec3bf7dc7b327c3aee6.png@942w_494h_progressive.webp"><br>
+<img src="https://i0.hdslb.com/bfs/article/896b8a9d9e97da5dda313d88f8fc45d3dab97cb4.png@942w_495h_progressive.webp"><br>
 ## 修改属性：
 根据表格所显示的内容，对处理文件的属性名和属性值进行修改。批量修改小技巧：你可以全选表格粘贴到Excel进行刷格式的修改。
 
