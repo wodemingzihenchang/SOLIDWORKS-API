@@ -1,4 +1,4 @@
-用于批量处理SW文件属性的工具程序，目前只支持SW 2019及以下版本的操作。
+用于批量处理SW文件属性的工具程序。
 <img src="https://i0.hdslb.com/bfs/article/cbb945a56b49f8c1775cdb99adc9b7f73ac882b9.png@765w_368h_progressive.webp">
 
 ## 选择文件：
