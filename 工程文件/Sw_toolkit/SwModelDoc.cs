@@ -18,50 +18,18 @@ namespace Sw_toolkit
         /// <returns></returns>
         public static ISldWorks ConnectToSolidWorks()
         {
-            if (swApp != null)
-            {
-                return swApp;
-            }
+            string str1 = "SldWorks.Application";
+            string str2 = "SldWorks.Application";
+            if (swApp != null) { return swApp; }
             else
             {
-                Debug.Print("connect to solidworks on " + DateTime.Now);
-                try
+                for (int i = 20; i < 100; i++)
                 {
-                    swApp = (SldWorks)Marshal.GetActiveObject("SldWorks.Application.26");//SW2018
+                    str2 = str1 + "." + i;Console.WriteLine(str2);
+                    try { swApp = (SldWorks)Marshal.GetActiveObject(str2); return swApp; }
+                    catch (COMException) { swApp = null; }
                 }
-                catch (COMException)
-                {
-                    try
-                    {
-                        swApp = (SldWorks)Marshal.GetActiveObject("SldWorks.Application.27");//SW2019
-                    }
-                    catch (COMException)
-                    {
-                        try
-                        {
-                            swApp = (SldWorks)Marshal.GetActiveObject("SldWorks.Application.28");//SW2020
-                        }
-                        catch (COMException)
-                        {
-                            try
-                            {
-                                swApp = (SldWorks)Marshal.GetActiveObject("SldWorks.Application.29");//SW2021
-                            }
-                            catch (COMException)
-                            {
-                                try
-                                {
-                                    swApp = (SldWorks)Marshal.GetActiveObject("SldWorks.Application.30");//SW2022
-                                }
-                                catch (COMException)
-                                {
-                                    MessageBox.Show(" 请先打开SOLIDWORKS程序 ", "SolidWorks", (MessageBoxButton)MessageBoxButtons.OK, (MessageBoxImage)MessageBoxIcon.Hand);
-                                    swApp = null;
-                                }
-                            }
-                        }
-                    }
-                }
+                MessageBox.Show(" 请先打开SOLIDWORKS程序 ");
                 swApp.CommandInProgress = true;//告诉SW现在是用外部程序调用命令（优化性能）
                 return swApp;
             }
