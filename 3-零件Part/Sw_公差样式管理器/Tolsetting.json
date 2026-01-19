@@ -1,0 +1,23 @@
+{
+  "Tol": [
+    "1"
+  ],
+  "TolMax": [
+    1.0
+  ],
+  "TolMin": [
+    1.0
+  ],
+  "TolType": [
+    1
+  ],
+  "Precision": [
+    1
+  ],
+  "TolPrecision": [
+    1
+  ],
+  "TolFont_Value": [
+    1.0
+  ]
+}

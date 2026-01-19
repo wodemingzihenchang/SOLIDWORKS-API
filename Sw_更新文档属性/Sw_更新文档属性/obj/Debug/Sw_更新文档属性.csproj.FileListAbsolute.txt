@@ -1,9 +1,0 @@
-E:\20-LeonLin\[06]Learn\C#\01-SW API\Sw_更新文档属性\Sw_更新文档属性\bin\Debug\Sw_更新文档属性.exe.config
-E:\20-LeonLin\[06]Learn\C#\01-SW API\Sw_更新文档属性\Sw_更新文档属性\bin\Debug\Sw_更新文档属性.exe
-E:\20-LeonLin\[06]Learn\C#\01-SW API\Sw_更新文档属性\Sw_更新文档属性\bin\Debug\Sw_更新文档属性.pdb
-E:\20-LeonLin\[06]Learn\C#\01-SW API\Sw_更新文档属性\Sw_更新文档属性\obj\Debug\Sw_toolkit.Form4.resources
-E:\20-LeonLin\[06]Learn\C#\01-SW API\Sw_更新文档属性\Sw_更新文档属性\obj\Debug\Sw_LoadDraftingStandard.Properties.Resources.resources
-E:\20-LeonLin\[06]Learn\C#\01-SW API\Sw_更新文档属性\Sw_更新文档属性\obj\Debug\Sw_更新文档属性.csproj.GenerateResource.cache
-E:\20-LeonLin\[06]Learn\C#\01-SW API\Sw_更新文档属性\Sw_更新文档属性\obj\Debug\Sw_更新文档属性.csproj.CoreCompileInputs.cache
-E:\20-LeonLin\[06]Learn\C#\01-SW API\Sw_更新文档属性\Sw_更新文档属性\obj\Debug\Sw_更新文档属性.exe
-E:\20-LeonLin\[06]Learn\C#\01-SW API\Sw_更新文档属性\Sw_更新文档属性\obj\Debug\Sw_更新文档属性.pdb
